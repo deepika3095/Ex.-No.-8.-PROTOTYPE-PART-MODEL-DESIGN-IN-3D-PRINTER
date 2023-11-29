@@ -15,21 +15,16 @@
 ### Step 1:- Check all Electrical connections.
 
 ### Step 2:- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea maker first open the software and click the open file option as shown in below figure.
-![Screenshot 2023-11-28 165443](https://github.com/deepika3095/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151625159/1cb923fe-eeab-4a49-b8c4-9e707ff5bbfd)
-
+![image](https://github.com/deepika3095/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151625159/4a931321-a2ec-46ac-b4b5-01004d1bd065)
 ### Step 3:- select the Pan option and select the extruder (left of right) for printing the design and then after select the Repair option for auto correction of design of software parameter as shown in below figure.
-![Screenshot 2023-11-28 165646](https://github.com/deepika3095/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151625159/62a4bc4c-7462-40e8-ac54-17b098099e44)
-
+![image](https://github.com/deepika3095/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151625159/74d9bb0b-7c01-4fa0-bd78-9d5118c78957)
 ### Step 4.:- select the Move option for design print position in build tack plate and then after select the Rotate option for rotate the design easily printed and used low print material as shown in below figure.
-![Screenshot 2023-11-28 165839](https://github.com/deepika3095/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151625159/f1623ed2-25ca-4bfa-bcc7-63f28434f1a2)
-
+![image](https://github.com/deepika3095/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151625159/4b04579a-006c-4b1a-a7ff-8f6516cdd160)
 ### Step 5.:- select the Scale option for design scale according to build plate area and then after click the start option and select printing option standard as shown in below figure.
-![Screenshot 2023-11-28 165646](https://github.com/deepika3095/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151625159/e5cb8060-a642-46ad-b3c3-bf9040f13cf0)
-
+![image](https://github.com/deepika3095/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151625159/267c3555-70aa-476a-8640-87871fdb3126)
 ### Step 6.:- After completing all settings then click the Slice option and export the file in gcode format.
-![Screenshot 2023-11-28 170411](https://github.com/deepika3095/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151625159/ed413a61-95d8-458d-8f59-8f5b0c00ecff)
-![Screenshot 2023-11-28 170557](https://github.com/deepika3095/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151625159/c41944a0-74f6-4fdf-a7c0-d542c46aa6c3)
-
+![image](https://github.com/deepika3095/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151625159/8a76f5fc-4698-4ceb-b24e-7b607a9fefc1)
+![image](https://github.com/deepika3095/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151625159/212aa772-0363-4d73-8448-a5616e7add36)
 ### Step 7.:- After generating the gcode format then follow the these instruction as shown in below figure.
 ###   1.	Switch on the 3d printer.
 ###   2.	Place your Pen drive in USB.
@@ -40,7 +35,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-
+![image](https://github.com/deepika3095/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151625159/ddb3acca-6b7a-4e05-82f3-f243e05c8728)
 ### Name: Deepika R
 ### Register Number: 23006405
 
